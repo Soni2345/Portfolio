@@ -355,7 +355,7 @@ nav ul li a:hover::after {
     /* background-color: aqua; */
 }
 .right-c{
-    background-color: red;
+    /* background-color: red; */
     width: 50%;
     padding: 20px;
     /* display: flex;
@@ -364,15 +364,20 @@ nav ul li a:hover::after {
     justify-content: center; */
 }
 .right-c input{
+    margin-top: 10px;
     height: 40px;
     width: 80%;
     border-radius: 10px;
     border: none;
     background-color: rgb(83, 82, 82);
 }
-.right-c {
-
-    border: none;
+.right-c p{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+   
+/* 
+    border: none; */
    
 }
 
